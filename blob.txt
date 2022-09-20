@@ -1,0 +1,4 @@
+20210414,Ace CISC 230 exam,HIGH
+20210421,Lab 5 progress submission,MEDIUM
+20210428,Lab 5 final submission,HIGH
+20210908,Fall classes begin,LOW
